@@ -1,5 +1,7 @@
 site_name: OWASP Security Champions Guide
 site_description: OWASP Security Champions Guide
+site_url: https://securitychampions.owasp.org/
+
 copyright: This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International license</a>.
 theme:
   name: material
