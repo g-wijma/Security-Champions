@@ -1,4 +1,4 @@
-![OWASP Security Champions Guide logo](assets/images/OWASP Security Champions Guide logo SBS.png)
+![OWASP Security Champions Guide logo](assets/images/OWASP_Security_Champions_Guide_logo_SBS.png)
 
 **Welcome to the home of the OWASP Security Champions Guide Project! Our goal is to create an open-source, vendor-neutral guidebook for AppSec professionals to help them build and improve their own successful Security Champion programs.**
 

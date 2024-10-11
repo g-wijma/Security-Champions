@@ -18,4 +18,4 @@ The Ten Key Principles for a Successful Security Champions Program:
 
 ## Visual
 Prefer a visual? Download your copy of our principles infographic
-![Manifesto infographic](assets/images/OWASP Security Champions Manifesto.png)
+![Manifesto infographic](assets/images/OWASP_Security_Champions_Manifesto.png)
