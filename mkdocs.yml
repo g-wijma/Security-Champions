@@ -1,5 +1,5 @@
-site_name: OWASP Security Champions Guide
-site_description: OWASP Security Champions Guide
+site_name: OWASP Security Champions
+site_description: Our goal is to create an open-source, vendor-neutral guidebook for AppSec professionals to help them build and improve their own successful Security Champion programs.
 site_url: https://securitychampions.owasp.org/
 
 copyright: This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International license</a>.
@@ -31,3 +31,14 @@ theme:
 nav:
   - Introduction: index.md
   - Manifesto: manifesto.md
+  - Principles:
+    - 1. Be passionate about security: 'principles\01_Be_passionate_about_security.md'
+    - 2. Start with a clear vision for your program: 'principles\02_Start_with_a_clear_vision_for_your_program.md'
+    - 3. Secure management support: 'principles\03_Secure_management_support.md'
+    - 4. Nominate a dedicated captain: 'principles\04_Nominate_a_dedicated_captain.md'
+    - 5. Trust your champions: 'principles\05_Trust_your_champions.md'
+    - 6. Create a community: 'principles\06_Create_a_community.md'
+    - 7. Promote knowledge sharing: 'principles\07_Promote_knowledge_sharing.md'
+    - 8. Reward responsibility: 'principles\08_Reward_responsibility.md'
+    - 9. Invest in your champions: 'principles\09_Invest_in_your_champions.md'
+    - 10. Anticipate personnel changes: 'principles\10_Anticipate_personnel_changes.md'
