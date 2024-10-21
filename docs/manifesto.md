@@ -3,7 +3,7 @@ The OWASP Security Champions Manifesto is a set of guiding principles crucial to
 The principles have been drawn from an initial series of in-depth interviews with Application Security leaders from across the globe as part of our wider goal to provide a comprehensive Security Champions playbook.
 
 ## Key principles
-The Ten Key Principles for a Successful Security Champions Program:
+The Ten Key Principles of a Successful Security Champions Program:
 
 1. [Be passionate about security](principles/01_Be_passionate_about_security.md)
 2. [Start with a clear vision for your program](principles/02_Start_with_a_clear_vision_for_your_program.md)

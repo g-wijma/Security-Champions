@@ -15,6 +15,7 @@ There are several angles for defining a vision for security champions. The most 
 ## How
 
 A successful vision must be:
+
 * Imaginable:<br>
 Convey a clear picture of what the future will look like. Translating this to your security champions program, you can consider drawing a security operating model with the roles and responsibilities of the security champions, dev(ops) engineers, IT Leads, Product Owner, and security organizations.
 * Desirable:<br>

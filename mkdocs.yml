@@ -28,6 +28,9 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+markdown_extensions:
+  - def_list
+
 nav:
   - Introduction: index.md
   - Manifesto: manifesto.md
@@ -42,3 +45,4 @@ nav:
     - 8. Reward responsibility: principles/08_Reward_responsibility.md
     - 9. Invest in your champions: principles/09_Invest_in_your_champions.md
     - 10. Anticipate personnel changes: principles/10_Anticipate_personnel_changes.md
+  - Project page: https://owasp.org/www-project-security-champions-guidebook/
