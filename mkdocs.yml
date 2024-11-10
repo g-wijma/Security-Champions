@@ -1,6 +1,8 @@
 site_name: OWASP Security Champions
 site_description: Our goal is to create an open-source, vendor-neutral guidebook for AppSec professionals to help them build and improve their own successful Security Champion programs.
 site_url: https://securitychampions.owasp.org/
+repo_name: OWASP/Security-Champions
+repo_url: https://github.com/OWASP/Security-Champions
 
 copyright: This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International license</a>.
 theme:
